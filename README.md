@@ -1,6 +1,6 @@
 # Checkout Message
 
-### This module is bascially provide the functionality for display the "Payment/Order/Shipping" related note/message for customer prospective.
+### This module is bascially provide the functionality for display the "Payment/Order/Shipping" related note/message on checkout page only for customer prospective.
 
 In this module we have used one static block *checkout-msg* identifier named, which having message content.
 
